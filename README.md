@@ -21,7 +21,7 @@ python3 plot-interactiveIzhikevich.py
 ```
 
 ![Interactive_Izhikevich_Model](/images/gui.png)
-Format: ![Alt Text](url)
+
 
 ## Built With
 
