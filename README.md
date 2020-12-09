@@ -9,7 +9,7 @@ To run the program on your local machine clone the repository.
 
 ### Prerequisites
 
-To run the program you need to install python3 and python matplotlib.
+You need to install python3 and python matplotlib.
 
 ### Installing
 
