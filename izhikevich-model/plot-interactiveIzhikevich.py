@@ -5,6 +5,9 @@ from matplotlib import animation
 from matplotlib.pyplot import  Button
 from matplotlib.widgets import Slider
 
+#Electronic version of the figure and reproduction permissions are freely available at www.izhikevich.com
+
+
 #a describes the time scale of the recovery variable u. Smaller values result in slower recovery. a = 0.02 is a typical value
 a = 0.02
 

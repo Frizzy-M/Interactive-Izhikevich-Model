@@ -5,7 +5,7 @@ import pylab as pl
 import matplotlib as plt
 
 
-# Source for the code is ......
+#Electronic version of the figure and reproduction permissions are freely available at www.izhikevich.com
 #
 #
 def izhikevichModel (a , b, c , d , I, v0, u0, dt):
