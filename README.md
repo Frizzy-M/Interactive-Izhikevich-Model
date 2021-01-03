@@ -14,13 +14,21 @@ You need to install python3 and python matplotlib.
 ### Installing
 
 
-Open a Terminal in the file *izhikevich-model* Then write the following:
+Open a Terminal in the file *izhikevich-model*. To simulate a single neuron write the following:
 
 ```
 python3 plot-interactiveIzhikevich.py
 ```
+To simulate multiple neurons at once write the following:
+
+```
+python3 multipleNeurons.py
+```
 
 ![Interactive_Izhikevich_Model](/images/gui.png)
+
+
+![multipleNeurons](/images/multipleNeurons.png)
 
 
 ## Built With

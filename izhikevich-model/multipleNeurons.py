@@ -4,6 +4,7 @@ import pylab as pl
 import matplotlib.pyplot as plt
 
 #Electronic version of the figure and reproduction permissions are freely available at www.izhikevich.com
+#Simulation of multiple neurons according to "Simple Model of Spiking Neurons", Eugene Izhikevich, puplished in IEEE Transactions on Neural Networks, Vol.14, No.6, November 2003
 
 runtime = 2000
 
