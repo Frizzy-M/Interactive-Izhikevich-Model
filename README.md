@@ -1,4 +1,4 @@
-# Interactive_Izhikevich_Model
+# Interactive-Izhikevich-Model
 
 The repository contains a python based implementation of the Izhikevich Neuron Model. 
 
